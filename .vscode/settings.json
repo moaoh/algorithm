@@ -1,0 +1,30 @@
+{
+	"files.associations": {
+		"queue": "cpp",
+		"utility": "cpp",
+		"__split_buffer": "c",
+		"array": "c",
+		"deque": "c",
+		"list": "c",
+		"string": "c",
+		"string_view": "c",
+		"vector": "c",
+		"iostream": "cpp",
+		"algorithm": "cpp",
+		"chrono": "cpp",
+		"limits": "cpp",
+		"ratio": "cpp",
+		"__bit_reference": "cpp",
+		"bitset": "cpp",
+		"unordered_map": "cpp",
+		"__string": "cpp",
+		"ios": "cpp",
+		"atomic": "cpp",
+		"exception": "cpp",
+		"functional": "cpp",
+		"istream": "cpp",
+		"locale": "cpp",
+		"ostream": "cpp",
+		"tuple": "cpp"
+	}
+}
