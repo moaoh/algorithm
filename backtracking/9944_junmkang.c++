@@ -1,4 +1,5 @@
-// baekjoon NxM 보드 완주하기 
+// baekjoon NxM 보드 완주하기
+// 풀지못하였음.
 #include <stdio.h>
 
 char map[31][31];
